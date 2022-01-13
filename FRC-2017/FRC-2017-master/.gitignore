@@ -1,0 +1,31 @@
+<<<<<<< HEAD
+bin/
+dist/
+build/
+
+=======
+>>>>>>> b15e9623705e600f3dfd515f55b2216cc6e9a5ac
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+<<<<<<< HEAD
+=======
+*.jar
+>>>>>>> b15e9623705e600f3dfd515f55b2216cc6e9a5ac
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+<<<<<<< HEAD
+
+# IntelliJ files
+.idea/
+*.iml
+
+sysProps.xml
+=======
+>>>>>>> b15e9623705e600f3dfd515f55b2216cc6e9a5ac
